@@ -1,6 +1,9 @@
 {
-  "dependencies": {
-    "fileutil": "^1.1.1",
-    "shelljs": "^0.7.8"
-  }
+    "dependencies": {
+        "fileutil": "^1.1.1",
+        "shelljs": "^0.7.8"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
 }
